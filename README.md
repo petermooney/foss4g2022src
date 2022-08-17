@@ -25,9 +25,11 @@ Within the `experiment1` and `experiment2/response-data` folder you will find th
 
 ## REPORT PUBLISHED
 This report was based on previous work related to this repository.
-* https://publications.jrc.ec.europa.eu/repository/bitstream/JRC127730/jrc-tr_ddi_2021_v9_online.pdf
+* https://op.europa.eu/en/publication-detail/-/publication/ba8c1142-8fa5-11ec-8c40-01aa75ed71a1
 
-The work is also published Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-4/W1-2022, 307–313, 2022 (see link https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLVIII-4-W1-2022/307/2022/) as part of the published proceedings of the Academic Track of FOSS4G 2022 https://2022.foss4g.org/
+## CONFERENCE PAPER PUBLISHED 
+The work is also published Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-4/W1-2022, 307–313, 2022 
+* see link https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLVIII-4-W1-2022/307/2022/) as part of the published proceedings of the Academic Track of FOSS4G 2022 https://2022.foss4g.org/
 
 
 ## ACKNOWLEDGEMENTS
